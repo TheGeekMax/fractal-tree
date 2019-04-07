@@ -1,5 +1,5 @@
 # fractal-tree
-fractal tree made with processing
+fractal tree made with processing, a java based library
 
 video of the program
 
