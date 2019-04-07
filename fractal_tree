@@ -10,9 +10,9 @@ void draw(){
 
   
   if(co <= 3600){
-    //saveFrame("output/out_####.png");
+    saveFrame("output/out_####.png");
     co++;
-   // println(co);
+    println(co);
   }
   
   nn += 0.01;
